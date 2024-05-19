@@ -6,7 +6,8 @@ Na primeira parte do desafio, o objetivo era criar um programa para formatar nom
 
 # Parte 2
 Nessa parte, o objetivo era separar dados numéricos e strings de uma string principal. 
-Optei por uma abordagem simples, sem criar funções adicionais. Primeiro, dividi a string principal em substrings usando a vírgula como delimitador e depois percorri cada uma dessas substrings para determinar se eram numéricas ou strings. Com base nessa distinção, armazenei os valores numéricos em um vetor e as strings em outro e, por fim, exibi esses vetores.
+Optei por uma abordagem simples, sem criar funções adicionais, seguindo o exemplo de string base apresentado no enunciado. 
+Primeiro, dividi a string principal em substrings usando a vírgula como delimitador e depois percorri cada uma dessas substrings para determinar se eram numéricas ou strings. Com base nessa distinção, armazenei os dados numéricos em um vetor e as strings em outro e, por fim, exibi esses vetores.
 
 # JavaScript
 Escolhi usar a linguagem JavaScript porque, além de ser uma linguagem que eu já conheço e que é destaque no mercado de trabalho, ela possui funções que eu sabia que agilizariam o desenvolvimento do código de forma eficiente.
