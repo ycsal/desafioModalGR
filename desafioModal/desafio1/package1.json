@@ -1,0 +1,11 @@
+{
+    "name": "desafio1-modalgr",
+    "version": "1.0.0",
+    "description": "Formatação de nomes para crachás",
+    "main": "desafio1.js",
+    "scripts": {
+      "start": "cd desafio1; node desafio1.js"
+    },
+    "author": "Yasmin Costa Salgado"
+  }
+  

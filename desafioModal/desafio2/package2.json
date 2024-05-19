@@ -1,0 +1,11 @@
+{
+    "name": "desafio2-modalgr",
+    "version": "1.0.0",
+    "description": "Separação de dados numéricos de strings",
+    "main": "desafio2.js",
+    "scripts": {
+      "start": "cd desafio2; node desafio2.js"
+    },
+    "author": "Yasmin Costa Salgado"
+  }
+  
