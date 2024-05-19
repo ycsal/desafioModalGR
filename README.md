@@ -1,5 +1,5 @@
 # desafioModalGR
-Desafio prático proposto pela empresa ModalGR para a trilha de Desenvolvimento Back-End.
+Desafio prático proposto pela empresa ModalGR para a trilha de formação: Desenvolvimento Back-End.
 
 # Parte 1
 Na primeira parte do desafio, o objetivo era criar um programa para formatar nomes completos para a criação de crachás, onde apenas as iniciais de cada parte do nome (exceto conectivos e iniciais do ultimo sobrenome) seriam exibidas, seguidas pelo último sobrenome. Implementei isso solicitando ao usuário a entrada do nome completo do colaborador e, em seguida, passei esse nome para a função criada para formatar o nome conforme especificado no enunciado do exercício. O resultado foi a exibição na tela do nome formatado de acordo com os requisitos para o crachá da empresa.
